@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+}
+.first{
+    display: flex;
+    background-color: black;  
+}
+.form{
+    width: 40%;
+    height: 100vh;
+}
+.login{
+   padding:  0px 20px 0px 20px;
+   background-color: rgb(8, 8, 8);
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   height: 100%;
+    
+}
+
+.signin{
+    font-size: 20px;
+    padding: 5px 90px;
+    background-color: skyblue;
+}
+.create{
+    padding: 5px 30px;
+    font-size: 20px;
+}
+.image{
+    background-image: url('back.png');
+    background-color: black;
+    width: 60%;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+}
+.input{
+    font-size: 20px;
+}
+p a{
+    font-size: 15px;
+}
+h2{
+    padding: 20px 20px 20px 10px;
+}
+
+
+
+
